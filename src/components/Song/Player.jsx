@@ -6,7 +6,7 @@ import {
   FaVolumeUp
 } from "react-icons/fa";
 
-import song from "../../assets/music/our-song.mp3";
+import song from "../../assets/music/Our-Song.mp3";
 
 function Player() {
 
