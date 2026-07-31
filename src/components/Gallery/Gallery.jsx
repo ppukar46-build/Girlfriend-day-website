@@ -11,32 +11,32 @@ function Gallery() {
   const photos = [
     {
       id: 1,
-      src: "/gallery/photo1.jpg",
+      src: "/gallery/photo1.jpeg",
       caption: "Your beautiful smile that lights up my whole world ✨",
     },
     {
       id: 2,
-      src: "/gallery/photo2.jpg",
+      src: "/gallery/photo2.jpeg",
       caption: "My favorite adventure buddy ❤️",
     },
     {
       id: 3,
-      src: "/gallery/photo3.jpg",
+      src: "/gallery/photo3.jpeg",
       caption: "Every moment with you is unforgettable 🌸",
     },
     {
       id: 4,
-      src: "/gallery/photo4.jpg",
+      src: "/gallery/photo4.jpeg",
       caption: "You look stunning effortlessly every single day 💕",
     },
     {
       id: 5,
-      src: "/gallery/photo5.jpg",
+      src: "/gallery/photo5.jpeg",
       caption: "The happiest memories of my life start with you 💖",
     },
     {
       id: 6,
-      src: "/gallery/photo6.jpg",
+      src: "/gallery/photo6.jpeg",
       caption: "My forever favorite person 👑",
     },
   ];
