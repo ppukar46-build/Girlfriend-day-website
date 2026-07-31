@@ -4,7 +4,7 @@ import TimeCard from "./TimeCard";
 function Countdown() {
 
   // Change this later
-  const startDate = new Date("2025-01-01T00:00:00");
+  const startDate = new Date("2025-12-11T00:00:00");
 
   const [time, setTime] = useState({
     days: 0,
@@ -50,7 +50,7 @@ function Countdown() {
       </h2>
 
       <p className="mt-4 text-center text-gray-600">
-        Every second with you is my favorite memory.
+        Every second with you Bachh! is my favorite memory.
       </p>
 
       <div className="mt-12 grid grid-cols-2 gap-4">

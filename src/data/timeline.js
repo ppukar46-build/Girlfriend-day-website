@@ -1,27 +1,27 @@
 const timeline = [
   {
-    date: "12 Oct 2022",
+    date: "24 Aug 2025",
     icon: "❤️",
     title: "The Day We Met",
     text: "A moment that changed everything."
   },
   {
-    date: "15 Oct 2022",
+    date: "03 Sep 2025",
     icon: "💬",
     title: "Our First Chat",
     text: "The beginning of endless conversations."
   },
   {
-    date: "20 Nov 2022",
+    date: "In Future..",
     icon: "☕",
     title: "Our First Date",
-    text: "A day I'll always remember."
+    text: "A day I want to always remember."
   },
   {
-    date: "14 Feb 2023",
+    date: "Still Wating for....",
     icon: "📸",
     title: "Our First Trip",
-    text: "A memory I'll cherish forever."
+    text: "A memory I want to cherish forever."
   },
   {
     date: "Forever",
