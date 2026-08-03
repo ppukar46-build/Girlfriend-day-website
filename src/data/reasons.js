@@ -1,7 +1,7 @@
 const reasons = [
   {
     icon: "❤️",
-    title: "You Make Me Smile",
+    title: "You Make Me Smile Always",
     text: "Your smile is my favorite sight."
   },
   {
