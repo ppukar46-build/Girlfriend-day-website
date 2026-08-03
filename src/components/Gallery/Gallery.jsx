@@ -36,7 +36,7 @@ function Gallery() {
     },
     {
       id: 6,
-      src: "/gallery/photo6.jpeg",
+      src: "/gallery/photo6.jpg",
       caption: "My forever favorite person 👑",
     },
   ];
